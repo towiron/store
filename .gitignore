@@ -1,9 +1,3 @@
-.idea
-.unotes
-media
-.env
-
-# Database stuff
-*.sqlite3
-migrations/
+.unotes/
 db.sqlite3
+media

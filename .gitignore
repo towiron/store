@@ -2,3 +2,5 @@
 data/
 db.sqlite3
 media
+.idea/
+__pycache__/
